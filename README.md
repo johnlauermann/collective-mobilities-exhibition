@@ -1,6 +1,6 @@
 # DeKalb Exhibition
 ## Methodology
-### Team: John Lauermann, Alex Strada, Yuanhao Wu
+### Team: John Lauermann, Alex Strada, Yuanhao Wu, Nathan Smash
  
 This document describes the methodology used to create maps for Strada’s Spring 2025 exhibition in the DeKalb gallery. We created a series of maps showing community district level data on housing and neighborhood demographics. We then designed a series of 2D map templates for exhibition and 3D maps as digital companions.
  
