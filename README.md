@@ -1,6 +1,5 @@
 # Homeless Data Exhibition, DeKalb Gallery 2025
-## Methodology
-### Team: John Lauermann, Alex Strada, Yuanhao Wu, Nathan Smash
+#### Team: [John Lauermann]([url](https://www.pratt.edu/people/john-lauermann/)), [Alex Strada]([url](https://www.pratt.edu/people/alex-strada)), [Yuanhao Wu]([url](https://www.linkedin.com/in/yuanhao-wu-80603723a/)), [Nathan Smash]([url](https://www.linkedin.com/in/nathan-smash-b6b93a24a/))
  
 This document describes the methodology used to create maps for Strada’s Spring 2025 exhibition in the DeKalb gallery. We compiled data on gentrification, housing affordability, and other neighborhood demographics in New York. We then created printed maps for the exhibition and interactive [2D maps]([url](https://prattsavi.maps.arcgis.com/apps/webappviewer/index.html?id=6deed25ae96b496ca4cbc66723d51abe)) and [3D maps]([url](https://prattsavi.maps.arcgis.com/apps/webappviewer3d/index.html?id=61d3ae908f314ac7ba09283414a42807)) as digital companions.
 
