@@ -1,4 +1,4 @@
-# script to pull ACS data from the Census API, clean, and then export to GIS
+# script to pull ACS data from the Census API at the census tract level. 
 
 library(tidyverse)
 library(tidycensus)
