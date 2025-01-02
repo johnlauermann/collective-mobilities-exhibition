@@ -22,5 +22,7 @@ We also pulled several datasets from NYC Open Data for calendar year 2024, inclu
 
 ## Maps
 At exhibition: 
+
 2D Interactive: https://prattsavi.maps.arcgis.com/apps/webappviewer/index.html?id=6deed25ae96b496ca4cbc66723d51abe 
+
 3D Interactive: https://prattsavi.maps.arcgis.com/apps/webappviewer3d/index.html?id=61d3ae908f314ac7ba09283414a42807
