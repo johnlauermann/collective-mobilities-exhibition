@@ -7,7 +7,7 @@ This document describes the methodology used to create maps for Strada’s Sprin
  
 ## Data Gathering
 
-Boundary files were obtained for NYC Community Districts and 2022 Census TigerLine tracts. Both were projected into UTM Zone 18N. Tracts in the five boroughs were extracted using a query and then water areas were clipped using district boundaries. 
+Boundary files were obtained for [NYC Community Districts]([url](https://data.cityofnewyork.us/City-Government/Community-Districts/yfnk-k7r4)) and [Census TIGER/Line tracts]([url](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.html)). Both were projected into UTM Zone 18N. Tracts in the five boroughs were extracted using a query and then water areas were clipped using district boundaries. 
 
 ### US Census
 We compiled a collection of variables from the Census Bureau and NYC Open Data. See [variable documentation](https://docs.google.com/spreadsheets/d/1ocsovQU9sfGW3KTDgE4AntTEQhZ-ztR_e0dDfXoxsf8/edit?usp=sharing) here. 
