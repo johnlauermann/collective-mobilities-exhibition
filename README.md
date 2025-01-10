@@ -1,4 +1,4 @@
-# [Collective Mobilities Exhibition] (https://www.pratt.edu/events/collective-mobilities/)
+# [Collective Mobilities Exhibition](https://www.pratt.edu/events/collective-mobilities/)
 ## DeKalb Gallery 2025, Pratt Institute
 #### Team: [John Lauermann](https://www.pratt.edu/people/john-lauermann/), [Alex Strada](https://www.pratt.edu/people/alex-strada), [Yuanhao Wu](https://www.linkedin.com/in/yuanhao-wu-80603723a/), [Nathan Smash](https://www.linkedin.com/in/nathan-smash-b6b93a24a/)
  
