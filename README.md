@@ -1,7 +1,8 @@
-# Homeless Data Exhibition, DeKalb Gallery 2025
+# Data for Collective Mobilities Exhibition
+## DeKalb Gallery 2025, Pratt Institute
 #### Team: [John Lauermann](https://www.pratt.edu/people/john-lauermann/), [Alex Strada](https://www.pratt.edu/people/alex-strada), [Yuanhao Wu](https://www.linkedin.com/in/yuanhao-wu-80603723a/), [Nathan Smash](https://www.linkedin.com/in/nathan-smash-b6b93a24a/)
  
-This document describes the methodology used to create maps for Strada’s Spring 2025 exhibition in the DeKalb gallery. We compiled data on gentrification, housing affordability, and other neighborhood demographics in New York. We then created printed maps for the exhibition and interactive 2D and 3D maps as digital companions.
+This document describes the methodology used to create maps for the [Collective Mobilities](https://www.pratt.edu/events/collective-mobilities/) exhibition in Pratt Institute's DeKalb Gallery (Feb 3-March 9, 2025). We compiled data on gentrification, housing affordability, and other neighborhood demographics in New York. We then created printed maps for the exhibition and interactive 2D and 3D maps as digital companions.
 
 
  
