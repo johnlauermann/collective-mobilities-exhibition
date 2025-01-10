@@ -1,4 +1,4 @@
-# Data for Collective Mobilities Exhibition
+# Collective Mobilities Exhibition
 ## DeKalb Gallery 2025, Pratt Institute
 #### Team: [John Lauermann](https://www.pratt.edu/people/john-lauermann/), [Alex Strada](https://www.pratt.edu/people/alex-strada), [Yuanhao Wu](https://www.linkedin.com/in/yuanhao-wu-80603723a/), [Nathan Smash](https://www.linkedin.com/in/nathan-smash-b6b93a24a/)
  
@@ -22,8 +22,8 @@ We also pulled several datasets from NYC Open Data for calendar year 2024, inclu
 
 
 ## Maps
-At exhibition: 
+At exhibition: https://www.pratt.edu/events/collective-mobilities/
 
-2D Interactive: https://prattsavi.maps.arcgis.com/apps/webappviewer/index.html?id=6deed25ae96b496ca4cbc66723d51abe 
+2D Interactive: https://experience.arcgis.com/experience/3f555237cbc441bf94fa1f1c34d47e29
 
 3D Interactive: https://prattsavi.maps.arcgis.com/apps/webappviewer3d/index.html?id=61d3ae908f314ac7ba09283414a42807
