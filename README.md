@@ -22,8 +22,8 @@ We also pulled several datasets from NYC Open Data for calendar year 2024, inclu
 
 
 ## Maps
-At exhibition: https://www.pratt.edu/events/collective-mobilities/
+Exhibition: https://www.pratt.edu/events/collective-mobilities/
 
-2D Interactive: https://experience.arcgis.com/experience/3f555237cbc441bf94fa1f1c34d47e29
+2D Map: https://experience.arcgis.com/experience/3f555237cbc441bf94fa1f1c34d47e29
 
-3D Interactive: https://prattsavi.maps.arcgis.com/apps/webappviewer3d/index.html?id=61d3ae908f314ac7ba09283414a42807
+3D Map: https://experience.arcgis.com/experience/90e5f715895d44f78b9e69910ffbf062/
