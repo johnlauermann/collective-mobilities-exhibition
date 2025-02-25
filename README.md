@@ -4,6 +4,7 @@
  
 This document describes the methodology used to create maps for the [Collective Mobilities](https://www.pratt.edu/events/collective-mobilities/) exhibition in Pratt Institute's DeKalb Gallery (Feb 3-March 9, 2025). We compiled data on gentrification, housing affordability, and other neighborhood demographics in New York. We then created printed maps for the exhibition and interactive 2D and 3D maps as digital companions.
 
+![CollectiveMobilities01](https://github.com/user-attachments/assets/b1f1000e-10ec-41de-9d00-3139bab0405a)
 
  
 ## Data Gathering
