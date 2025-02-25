@@ -1,5 +1,3 @@
-<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/b1f1000e-10ec-41de-9d00-3139bab0405a)" width="200">
-
 ![CollectiveMobilities01](https://github.com/user-attachments/assets/b1f1000e-10ec-41de-9d00-3139bab0405a)
 
 # [Collective Mobilities Exhibition](https://www.pratt.edu/events/collective-mobilities/)
