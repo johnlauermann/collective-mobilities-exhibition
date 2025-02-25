@@ -1,12 +1,12 @@
+![CollectiveMobilities01](https://github.com/user-attachments/assets/b1f1000e-10ec-41de-9d00-3139bab0405a)
+
 # [Collective Mobilities Exhibition](https://www.pratt.edu/events/collective-mobilities/)
 ## DeKalb Gallery 2025, Pratt Institute
 #### Team: [John Lauermann](https://www.pratt.edu/people/john-lauermann/), [Alex Strada](https://www.pratt.edu/people/alex-strada), [Yuanhao Wu](https://www.linkedin.com/in/yuanhao-wu-80603723a/), [Nathan Smash](https://www.linkedin.com/in/nathan-smash-b6b93a24a/)
  
 This document describes the methodology used to create maps for the [Collective Mobilities](https://www.pratt.edu/events/collective-mobilities/) exhibition in Pratt Institute's DeKalb Gallery (Feb 3-March 9, 2025). We compiled data on gentrification, housing affordability, and other neighborhood demographics in New York. We then created printed maps for the exhibition and interactive 2D and 3D maps as digital companions.
 
-![CollectiveMobilities01](https://github.com/user-attachments/assets/b1f1000e-10ec-41de-9d00-3139bab0405a)
 
- 
 ## Data Gathering
 
 Boundary files were obtained for [NYC Community Districts](https://data.cityofnewyork.us/City-Government/Community-Districts/yfnk-k7r4) and [Census TIGER/Line tracts](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.html). Both were projected into UTM Zone 18N. Tracts in the five boroughs were extracted using a query and then water areas were clipped using district boundaries. 
