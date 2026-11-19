@@ -1,6 +1,6 @@
 
 # Compile data ------------------------------------------------------------
-# this script compiles data from Census, NYC Open Data, and other City sources. 
+# this script compiles data from Census/ACS. 
 
 library(here)
 library(tidyverse)
