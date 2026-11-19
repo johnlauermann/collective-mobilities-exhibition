@@ -1,6 +1,6 @@
 
 # Compile data ------------------------------------------------------------
-# this script compiles data from Census API for use in data visualization. 
+# this script compiles data from NYC Open Data for use in data visualization. 
 
 library(here)
 library(tidyverse)
